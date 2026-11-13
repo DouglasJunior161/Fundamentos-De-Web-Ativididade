@@ -1,3 +1,4 @@
+// 2.    Faça um script em que o usuário entre com quatro notas, em uma caixa de diálogo. Em seguida, crie uma lista e exiba as notas também com caixa de diálogo. Calcule a média e exiba na página.
 var contador = 1;
 const notas = [];
 while(contador <= 4){
